@@ -62,15 +62,7 @@ Potential avenues for further exploration include:
 - Predictive modeling for recommending new content.
 - Collaborative filtering to enhance user experience.
 
-## Contributors
 
-- [Your Name] - [Your GitHub Profile](https://github.com/mohdzaid1452/Internship1/edit/main/README.md)
 
-## Acknowledgments
+- [Your Name] - Mohd Zaid [Your GitHub Profile](https://github.com/mohdzaid1452/Internship1/edit/main/README.md)
 
-We would like to express our gratitude to the creators of the dataset for making it publicly available, as well as to the open-source community for developing the tools and libraries used in this analysis.
-
----
-
-Feel free to customize this README file according to your specific project details and findings.
- 

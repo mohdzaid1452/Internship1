@@ -1,4 +1,4 @@
-Weak-3(Content)
+Week-3(Content)
 
 Certainly! Below is a template for a README file for a Netflix data analysis project:
 
